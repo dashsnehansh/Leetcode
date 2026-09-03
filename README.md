@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dashsnehansh/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dashsnehansh/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dashsnehansh/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dashsnehansh/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dashsnehansh/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dashsnehansh/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +46,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dashsnehansh/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End--> LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
