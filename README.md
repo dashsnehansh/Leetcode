@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dashsnehansh/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/dashsnehansh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/dashsnehansh/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/dashsnehansh/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dashsnehansh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/dashsnehansh/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Sorting
@@ -78,6 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dashsnehansh/Leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dashsnehansh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End--> LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
