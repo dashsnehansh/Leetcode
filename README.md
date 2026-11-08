@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dashsnehansh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dashsnehansh/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dashsnehansh/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/dashsnehansh/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dashsnehansh/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dashsnehansh/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/dashsnehansh/Leetcode/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dashsnehansh/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/dashsnehansh/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dashsnehansh/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dashsnehansh/Leetcode/tree/master/0342-power-of-four) |
