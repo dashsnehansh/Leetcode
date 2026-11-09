@@ -12,6 +12,6 @@ class Solution(object):
                 j=j-1
             if numbers[i]+numbers[j]<target:
                 i=i+1
-            if numbers[i]+numbers[j]==target and i!=j:
+            if numbers[i]+numbers[j]==target:
                 return [i+1,j+1]
                 break    
