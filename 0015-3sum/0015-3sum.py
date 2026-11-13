@@ -8,7 +8,6 @@ class Solution(object):
         nums.sort()
         
         for i in range(len(nums) - 2):
-            # Optional optimization: skip duplicate starting elements
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
                 
